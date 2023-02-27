@@ -1,6 +1,6 @@
 # Hello everyone, I'm Lars and this is my github-Profile
 
-![Visitor Count](https : //profile-counter.glitch.me/{GITBOEJ}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/GITBOEJ/count.svg)
 
 ## My bio
 
