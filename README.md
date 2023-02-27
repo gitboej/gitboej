@@ -3,6 +3,7 @@
 ## Page Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/GITBOEJ/count.svg)
+![Current UTC time](https://gitboej.jojoee.com/api/utcnowgif?utcnow)
 
 ## My bio
 
