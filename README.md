@@ -1,5 +1,7 @@
 # Hello everyone, I'm Lars and this is my github-Profile
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
 ## My bio
 
 I was born in 1997. I always lived in **OWL**, that's the *eastern part of westphalia* in Germany, with an short stay in Stuttgart after my A-Levels.
